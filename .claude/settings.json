@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": {
+    "headroom-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "headroomlabs-ai/headroom",
+        "sparsePaths": [
+          ".claude-plugin",
+          "plugins"
+        ]
+      }
+    }
+  },
+  "enabledPlugins": {
+    "headroom@headroom-marketplace": true
+  }
+}
